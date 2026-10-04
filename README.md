@@ -18,3 +18,7 @@
 - LinkedIn: https://www.linkedin.com/in/nabeel-ullah-s-52bb992a4
 
 ⚡ Fun fact: I also create automotive content and love photography & videography!
+
+## 🌱 Currently learning
+- Python — starting from zero (Oct 2026), one day at a time
+- Goal: placement-ready by final year 💼
