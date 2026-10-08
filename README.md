@@ -1,24 +1,33 @@
 # Hi there, I'm Nabeel Ullah Shareef 👋
 
-🎓 Computer Science Engineering student at Lords Institute of Engineering & Technology, Hyderabad
+🎓 **CSE Student** @ Lords Institute of Engineering & Technology, Hyderabad
+💻 Aspiring **Full Stack Web Developer** · 🤖 AI & Emerging Tech enthusiast
 
-💻 Passionate about **Full Stack Web Development**, **Artificial Intelligence**, and emerging technologies
+---
 
-🌱 Currently building my skills in web development, working on practical projects, and exploring the world of AI
+🌱 **Currently learning:** Python — from zero (Oct 2026), one day at a time
+🎯 **Goal:** placement-ready by final year 💼
 
-🤝 Open to learning, collaborating, and connecting with developers and creators
+---
 
-## 🛠️ Tech I'm exploring
-- Web Development (HTML, CSS, JavaScript)
-- Full Stack Development
-- AI & Emerging Technologies
-- C Programming
+### 🛠️ Languages & Tools
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/nabeel-ullah-s-52bb992a4
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabeelullahShareef&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelullahShareef&layout=compact&theme=radical)
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ullah-s-52bb992a4)
+
+---
 
 ⚡ Fun fact: I also create automotive content and love photography & videography!
-
-## 🌱 Currently learning
-- Python — starting from zero (Oct 2026), one day at a time
-- Goal: placement-ready by final year 💼
